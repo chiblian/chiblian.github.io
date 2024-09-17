@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chiblian.github.io/sitemap.html.gz
+Sitemap: https://chiblian.github.io/app/sitemap.html.gz
+Sitemap: https://chiblian.github.io/assets/sitemap.html.gz
+Sitemap: https://chiblian.github.io/css/sitemap.html.gz
+Sitemap: https://chiblian.github.io/includes/sitemap.html.gz
+Sitemap: https://chiblian.github.io/item/sitemap.html.gz
+Sitemap: https://chiblian.github.io/src/sitemap.html.gz
